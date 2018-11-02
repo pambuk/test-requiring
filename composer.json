@@ -8,5 +8,20 @@
             "email": "wojtek.zymonik@gmail.com"
         }
     ],
-    "require": {}
+    "require": {
+        "pambuk/test-getting-required": "dev-master@dev",
+        "pambuk/test-getting-required-2": "dev-master@dev"
+    },
+    "repositories": [
+        {
+            "type": "vcs",
+            "url": "git@github.com:pambuk/test-getting-required.git"
+        },
+        {
+            "type": "vcs",
+            "url": "git@github.com:pambuk/test-getting-required-2.git"
+        }
+    ],
+    "minimum-stability": "dev",
+    "prefer-stable": true
 }
