@@ -1,0 +1,12 @@
+{
+    "name": "pambuk/test-requiring",
+    "description": "Test requiring another repo",
+    "type": "project",
+    "authors": [
+        {
+            "name": "pambuk",
+            "email": "wojtek.zymonik@gmail.com"
+        }
+    ],
+    "require": {}
+}
