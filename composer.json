@@ -9,17 +9,26 @@
         }
     ],
     "require": {
-        "pambuk/test-getting-required": "dev-master@dev",
+        "pambuk/test-getting-required": "@dev",
         "pambuk/test-getting-required-2": "dev-master@dev"
     },
     "repositories": [
         {
             "type": "vcs",
-            "url": "git@github.com:pambuk/test-getting-required.git"
+            "url": "git@github.com:pambuk/test-getting-required-2.git"
         },
         {
-            "type": "vcs",
-            "url": "git@github.com:pambuk/test-getting-required-2.git"
+            "type": "package",
+            "package": {
+                "name": "pambuk/test-getting-required",
+                "type": "gitlab",
+                "source": {
+                    "url": "git@github.com:pambuk/test-getting-required.git",
+                    "type": "git",
+                    "reference": "master"
+                },
+                "version": "1.0.0"
+            }
         }
     ],
     "minimum-stability": "dev",
