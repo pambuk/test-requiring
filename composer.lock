@@ -4,20 +4,20 @@
         "Read more about it at https://getcomposer.org/doc/01-basic-usage.md#installing-dependencies",
         "This file is @generated automatically"
     ],
-    "content-hash": "83c90d685222e1fc86045d4bc41393c8",
+    "content-hash": "e6e6a8cf9cc42edb0089009cb6e85d25",
     "packages": [
         {
             "name": "pambuk/test-getting-required",
-            "version": "dev-master",
+            "version": "dev-develop",
             "source": {
                 "type": "git",
                 "url": "https://github.com/pambuk/test-getting-required.git",
-                "reference": "eec370c3de057aa56c389f946398e911e56d684d"
+                "reference": "735c7f2598fabbe4b9b061a34b3dfab3b9104d07"
             },
             "dist": {
                 "type": "zip",
-                "url": "https://api.github.com/repos/pambuk/test-getting-required/zipball/eec370c3de057aa56c389f946398e911e56d684d",
-                "reference": "eec370c3de057aa56c389f946398e911e56d684d",
+                "url": "https://api.github.com/repos/pambuk/test-getting-required/zipball/735c7f2598fabbe4b9b061a34b3dfab3b9104d07",
+                "reference": "735c7f2598fabbe4b9b061a34b3dfab3b9104d07",
                 "shasum": ""
             },
             "require": {
@@ -32,10 +32,10 @@
             ],
             "description": "Test getting required",
             "support": {
-                "source": "https://github.com/pambuk/test-getting-required/tree/master",
+                "source": "https://github.com/pambuk/test-getting-required/tree/develop",
                 "issues": "https://github.com/pambuk/test-getting-required/issues"
             },
-            "time": "2018-11-23T14:36:48+00:00"
+            "time": "2018-11-26T10:01:44+00:00"
         },
         {
             "name": "pambuk/test-getting-required-2",
