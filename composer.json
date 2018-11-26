@@ -9,7 +9,7 @@
         }
     ],
     "require": {
-        "pambuk/test-getting-required": "dev-develop@dev",
+        "pambuk/test-getting-required": "dev-feature/just-to-be-sure@dev",
         "pambuk/test-getting-required-2": "dev-master@dev"
     },
     "repositories": [
